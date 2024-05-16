@@ -4,7 +4,7 @@ This bash script is designed to manage Android Debug Bridge (ADB) services on Li
 
 ## Description
 
-The script performs a sequence of commands to reset the ADB server, ensuring that any connected Android devices are properly recognized and listed in Android Studio. This can be particularly useful for developers who frequently connect multiple devices or encounter issues with device detection.
+The script performs a sequence of commands to reset the ADB server, ensuring that any connected Android devices are recognized and listed in Android Studio. This can be particularly useful for developers who frequently connect multiple devices or encounter issues with device detection.
 
 ## Features
 
